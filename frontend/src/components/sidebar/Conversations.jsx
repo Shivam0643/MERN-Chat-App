@@ -1,5 +1,5 @@
 import React from 'react'
-import Conversation from './conversation.jsx'
+import Conversation from './conversation'
 import useGetConversations from '../../hooks/useGetConversations';
 import { getRandomEmoji } from '../../utils/emojis';
 
