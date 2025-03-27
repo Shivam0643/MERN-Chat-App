@@ -1,6 +1,6 @@
 import React from 'react'
 import SearchInput from './SearchInput.jsx'
-import Conversations from './conversations.jsx'
+import Conversations from './Conversations.jsx'
 import LogoutButton from './LogoutButton.jsx'
 
 
